@@ -1,0 +1,12 @@
+__pycache__/
+exported/
+data/
+dev/
+log/
+*.log
+*.pyc
+*.db
+upath.txt
+upload.txt
+.htaccess
+*.sublime-*
